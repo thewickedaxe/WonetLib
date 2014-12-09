@@ -1,7 +1,5 @@
 WonetLib
 ========
 
-Java Source files for the WONET JAR
-
-
-These are just the 2 Java classes. Please download the latest version of JSOUP and add it to your build's libraries to make the code error free
+Welcome to WONET, a relatively pain free way to get the power of the WordNet in your Android applications,
+this is the source for the jar, just import it into eclipse and export it as a runnable JAR.
