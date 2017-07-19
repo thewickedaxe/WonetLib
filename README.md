@@ -1,3 +1,11 @@
+
+## This library is not maintained
+I wrote this when I was a sophomore in college, and I was still getting the hang of programming.
+I briefly considered rewriting this library to be more modern and have higher code quality. But I chose not to for a couple of reasons
+
+1. Performing a network call for every Wordnet access is bad and can potentially slow down your application
+2. Projects like RitaWN have integrated local Word Net solutions for Android
+
 WonetLib
 ========
 
